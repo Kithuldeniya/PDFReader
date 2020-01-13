@@ -1,0 +1,89 @@
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\PDFReader.exe.config
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\PDFReader.exe
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\PDFReader.pdb
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\Common.Logging.Core.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\Common.Logging.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\CsvHelper.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.barcodes.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.forms.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.io.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.kernel.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.layout.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.pdfa.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.sign.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.styledxmlparser.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.svg.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\System.ValueTuple.dll
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\Common.Logging.pdb
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\Common.Logging.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\Common.Logging.Core.pdb
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\Common.Logging.Core.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\CsvHelper.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.barcodes.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.forms.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.io.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.kernel.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.layout.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.pdfa.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.sign.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.styledxmlparser.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\itext.svg.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\bin\Release\System.ValueTuple.xml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\MainWindow.g.cs
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\App.g.cs
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\PDFReader_MarkupCompile.cache
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\PDFReader_MarkupCompile.lref
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\MainWindow.baml
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\PDFReader.g.resources
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\PDFReader.Properties.Resources.resources
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\PDFReader.csproj.GenerateResource.cache
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\PDFReader.csproj.CopyComplete
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\PDFReader.exe
+C:\Users\rkithuldeniya\Desktop\My Works\VS Projects\PDFReader2\PDFReader\PDFReader\obj\Release\PDFReader.pdb
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\PDFReader.exe.config
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\PDFReader.exe
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\PDFReader.pdb
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\Common.Logging.Core.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\Common.Logging.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\CsvHelper.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.barcodes.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.forms.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.io.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.kernel.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.layout.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.pdfa.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.sign.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.styledxmlparser.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.svg.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\System.ValueTuple.dll
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\Common.Logging.pdb
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\Common.Logging.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\Common.Logging.Core.pdb
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\Common.Logging.Core.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\CsvHelper.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.barcodes.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.forms.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.io.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.kernel.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.layout.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.pdfa.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.sign.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.styledxmlparser.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\itext.svg.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\bin\Release\System.ValueTuple.xml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader.csprojAssemblyReference.cache
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\MainWindow.g.cs
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\App.g.cs
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader_MarkupCompile.cache
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader_MarkupCompile.lref
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\MainWindow.baml
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader.g.resources
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader.Properties.Resources.resources
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader.csproj.GenerateResource.cache
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader.csproj.CopyComplete
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader.exe
+C:\Users\rkithuldeniya\source\repos\PDFReader\PDFReader\obj\Release\PDFReader.pdb
